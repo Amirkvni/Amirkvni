@@ -11,9 +11,6 @@
     university: "Computer Engineering Esfahan",
 }
 ```
-# Socials:
-[![A mushroom-head robot](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/Amirkvni)
-[![A mushroom-head robot](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/amirkvni?igsh=NzVobWo0OGw4ZmJs)
 # Skills:
 ![html](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
 ![css](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
