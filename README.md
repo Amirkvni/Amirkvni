@@ -8,7 +8,6 @@
     phoneNumber:989162035987,
     country:Iran,
     city:esfahan,
-    languages: ["HTML", "CSS", "JAVASCRIPT", "BOOTSTRAP","REACT"],
     university: "Computer Engineering Esfahan",
 }
 ```
