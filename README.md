@@ -12,7 +12,7 @@
     university: "Computer Engineering Esfahan",
 }
 ```
-[![A mushroom-head robot](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codecademy.com)
+[![A mushroom-head robot](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)]([https://codecademy.com](https://codepen.io/Amirkvni))
 [![A mushroom-head robot](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/amirkvni?igsh=NzVobWo0OGw4ZmJs)
 # Skills:
 ![html](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
