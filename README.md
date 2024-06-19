@@ -8,7 +8,7 @@
     phoneNumber:989162035987,
     country:Iran,
     city:esfahan,
-    university: "Computer Engineering Esfahan",
+    university: "Mohajer University of Isfahan",
 }
 ```
 # Skills:
